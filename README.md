@@ -1,11 +1,11 @@
-# csharp_fizzbuzz
-fizzbuzz in C#
-
 /*
  * FizzBuzz
  * Copyright (C) 2022 Andreas Fischer / Sociallydead.net
+ * You can reach my under andreas@sociallydead.net by email or
+ * visit https://andreas.sociallydead.net for more videos
+ * ( well soon, its under construction :) )
  * 
- * The sociallydead.net version of FizzBuss...
+ * The sociallydead.net version of FizzBuzz...
  * A reply to an awesome video by Tom Scott (I am a big fan!)
  * You can see his video and this javascript version here:
  * https://www.youtube.com/watch?v=QPZ0pIK_wsc
@@ -16,7 +16,7 @@ fizzbuzz in C#
  * central place, you can also easily at a 3rd or 4th value etc.
  * 
  * Also I HATE else statements because they can become messy really fast,
- * so if you wonder why I dont use else in the render part that is why!
+ * so if you wonder why I dont use else in the render part that is why
  * 
  * I hope you like my solution, and if it helps you at a job interview you
  * can buy me a beer over paypal: afischer@jsyntax.com
